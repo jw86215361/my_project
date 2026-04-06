@@ -472,8 +472,145 @@
     "description": "在精灵学中被归类为虫系的精灵。",
     "member_count": 32,
     "folded_count": 11,
-    "families": [],
-    "pet_names": []
+    "families": [
+      {
+        "family_chain": "毛毛 → 爬爬 → 化蝶（平常的样子）, 化蝶（幽冥眼的样子）, 化蝶（喵喵的样子）, 化蝶（奇丽花的样子）",
+        "representative": "化蝶",
+        "member_count": 6,
+        "chain_members": [
+          "毛毛",
+          "爬爬",
+          "化蝶"
+        ]
+      },
+      {
+        "family_chain": "矮脚爬爬 → 恶魔红钻",
+        "representative": "恶魔红钻",
+        "member_count": 2,
+        "chain_members": [
+          "矮脚爬爬",
+          "恶魔红钻"
+        ]
+      },
+      {
+        "family_chain": "毛头小蛛 → 捕尘长绒, 食尘短绒",
+        "representative": "捕尘长绒",
+        "member_count": 3,
+        "chain_members": [
+          "毛头小蛛",
+          "捕尘长绒",
+          "食尘短绒"
+        ]
+      },
+      {
+        "family_chain": "柴渣虫 → 燃薪虫",
+        "representative": "燃薪虫",
+        "member_count": 2,
+        "chain_members": [
+          "柴渣虫",
+          "燃薪虫"
+        ]
+      },
+      {
+        "family_chain": "嗜光嗡嗡 → 窃光蚊",
+        "representative": "窃光蚊",
+        "member_count": 2,
+        "chain_members": [
+          "嗜光嗡嗡",
+          "窃光蚊"
+        ]
+      },
+      {
+        "family_chain": "圆眼蜘蛛 → 尖角蜘蛛 → 芋香巨角蛛",
+        "representative": "芋香巨角蛛",
+        "member_count": 3,
+        "chain_members": [
+          "圆眼蜘蛛",
+          "尖角蜘蛛",
+          "芋香巨角蛛"
+        ]
+      },
+      {
+        "family_chain": "小草虫 → 草衣虫 → 花衣蝶",
+        "representative": "花衣蝶",
+        "member_count": 3,
+        "chain_members": [
+          "小草虫",
+          "草衣虫",
+          "花衣蝶"
+        ]
+      },
+      {
+        "family_chain": "一窝蜂 → 黄蜂后 → 花魁蜂后",
+        "representative": "花魁蜂后",
+        "member_count": 3,
+        "chain_members": [
+          "一窝蜂",
+          "黄蜂后",
+          "花魁蜂后"
+        ]
+      },
+      {
+        "family_chain": "小甲虫 → 铠甲虫",
+        "representative": "铠甲虫",
+        "member_count": 2,
+        "chain_members": [
+          "小甲虫",
+          "铠甲虫"
+        ]
+      },
+      {
+        "family_chain": "星尘虫 → 落星虫 → 陨星虫",
+        "representative": "陨星虫",
+        "member_count": 3,
+        "chain_members": [
+          "星尘虫",
+          "落星虫",
+          "陨星虫"
+        ]
+      },
+      {
+        "family_chain": "旋叶虫（金黄的样子） → 蓬叶虫（金黄的样子） → 风滚暮虫（金黄的样子）",
+        "representative": "风滚暮虫",
+        "member_count": 3,
+        "chain_members": [
+          "旋叶虫",
+          "蓬叶虫",
+          "风滚暮虫"
+        ]
+      }
+    ],
+    "pet_names": [
+      "毛毛",
+      "爬爬",
+      "化蝶",
+      "矮脚爬爬",
+      "恶魔红钻",
+      "毛头小蛛",
+      "捕尘长绒",
+      "食尘短绒",
+      "柴渣虫",
+      "燃薪虫",
+      "嗜光嗡嗡",
+      "窃光蚊",
+      "圆眼蜘蛛",
+      "尖角蜘蛛",
+      "芋香巨角蛛",
+      "小草虫",
+      "草衣虫",
+      "花衣蝶",
+      "一窝蜂",
+      "黄蜂后",
+      "花魁蜂后",
+      "小甲虫",
+      "铠甲虫",
+      "星尘虫",
+      "落星虫",
+      "陨星虫",
+      "旋叶虫",
+      "蓬叶虫",
+      "风滚暮虫"
+    ]
   },
   {
     "group_id": 5,
@@ -1239,8 +1376,356 @@
     "description": "外表可爱喜欢与洛克亲近的精灵。",
     "member_count": 75,
     "folded_count": 28,
-    "families": [],
-    "pet_names": []
+    "families": [
+      {
+        "family_chain": "仪使者 → 仪式之星 → 仪式巨像",
+        "representative": "仪式巨像",
+        "member_count": 3,
+        "chain_members": [
+          "仪使者",
+          "仪式之星",
+          "仪式巨像"
+        ]
+      },
+      {
+        "family_chain": "甜田螺 → 壳乙螺 → 卡洛儿",
+        "representative": "卡洛儿",
+        "member_count": 3,
+        "chain_members": [
+          "甜田螺",
+          "壳乙螺",
+          "卡洛儿"
+        ]
+      },
+      {
+        "family_chain": "书魔虫 → 书卷守护 → 古卷执政官, 古卷匣魔像",
+        "representative": "古卷执政官",
+        "member_count": 4,
+        "chain_members": [
+          "书魔虫",
+          "书卷守护",
+          "古卷执政官",
+          "古卷匣魔像"
+        ]
+      },
+      {
+        "family_chain": "恶魔叮 → 叮叮恶魔",
+        "representative": "叮叮恶魔",
+        "member_count": 2,
+        "chain_members": [
+          "恶魔叮",
+          "叮叮恶魔"
+        ]
+      },
+      {
+        "family_chain": "嘟嘟煲 → 嘟嘟锅",
+        "representative": "嘟嘟锅",
+        "member_count": 2,
+        "chain_members": [
+          "嘟嘟煲",
+          "嘟嘟锅"
+        ]
+      },
+      {
+        "family_chain": "号儿鱼 → 圆号鱼",
+        "representative": "圆号鱼",
+        "member_count": 2,
+        "chain_members": [
+          "号儿鱼",
+          "圆号鱼"
+        ]
+      },
+      {
+        "family_chain": "粉粉星 → 小皮球",
+        "representative": "小皮球",
+        "member_count": 2,
+        "chain_members": [
+          "粉粉星",
+          "小皮球"
+        ]
+      },
+      {
+        "family_chain": "幽影树",
+        "representative": "幽影树",
+        "member_count": 1,
+        "chain_members": [
+          "幽影树"
+        ]
+      },
+      {
+        "family_chain": "毛头小蛛 → 捕尘长绒, 食尘短绒",
+        "representative": "捕尘长绒",
+        "member_count": 3,
+        "chain_members": [
+          "毛头小蛛",
+          "捕尘长绒",
+          "食尘短绒"
+        ]
+      },
+      {
+        "family_chain": "春团 → 春兔 → 春花兔",
+        "representative": "春花兔",
+        "member_count": 3,
+        "chain_members": [
+          "春团",
+          "春兔",
+          "春花兔"
+        ]
+      },
+      {
+        "family_chain": "幽星光 → 曜星光 → 暮星辰",
+        "representative": "暮星辰",
+        "member_count": 3,
+        "chain_members": [
+          "幽星光",
+          "曜星光",
+          "暮星辰"
+        ]
+      },
+      {
+        "family_chain": "小夜 → 紫夜 → 朔夜伊芙",
+        "representative": "朔夜伊芙",
+        "member_count": 3,
+        "chain_members": [
+          "小夜",
+          "紫夜",
+          "朔夜伊芙"
+        ]
+      },
+      {
+        "family_chain": "格兰种子 → 格兰花 → 格兰球",
+        "representative": "格兰球",
+        "member_count": 3,
+        "chain_members": [
+          "格兰种子",
+          "格兰花",
+          "格兰球"
+        ]
+      },
+      {
+        "family_chain": "梦游（穿旧睡衣的样子） → 梦悠悠（穿旧睡衣的样子）",
+        "representative": "梦悠悠",
+        "member_count": 2,
+        "chain_members": [
+          "梦游",
+          "梦悠悠"
+        ]
+      },
+      {
+        "family_chain": "棋棋（白子） → 棋骑士（白子）, 棋绮后（白子）, 棋齐垒（白子）, 棋祈督（白子）",
+        "representative": "棋骑士",
+        "member_count": 5,
+        "chain_members": [
+          "棋棋",
+          "棋骑士",
+          "棋绮后",
+          "棋齐垒",
+          "棋祈督"
+        ]
+      },
+      {
+        "family_chain": "水滴蛇 → 水蛇锁 → 游蛇魔使",
+        "representative": "游蛇魔使",
+        "member_count": 3,
+        "chain_members": [
+          "水滴蛇",
+          "水蛇锁",
+          "游蛇魔使"
+        ]
+      },
+      {
+        "family_chain": "画精灵 → 画像守护 → 画间法师手, 画间沉铁兽",
+        "representative": "画间法师手",
+        "member_count": 4,
+        "chain_members": [
+          "画精灵",
+          "画像守护",
+          "画间法师手",
+          "画间沉铁兽"
+        ]
+      },
+      {
+        "family_chain": "粉星仔 → 粉耳星兔, 落陨星兔",
+        "representative": "粉耳星兔",
+        "member_count": 3,
+        "chain_members": [
+          "粉星仔",
+          "粉耳星兔",
+          "落陨星兔"
+        ]
+      },
+      {
+        "family_chain": "治愈兔 → 红丝绒 → 红绒十字",
+        "representative": "红绒十字",
+        "member_count": 3,
+        "chain_members": [
+          "治愈兔",
+          "红丝绒",
+          "红绒十字"
+        ]
+      },
+      {
+        "family_chain": "裘洛 → 裘力 → 裘卡",
+        "representative": "裘卡",
+        "member_count": 3,
+        "chain_members": [
+          "裘洛",
+          "裘力",
+          "裘卡"
+        ]
+      },
+      {
+        "family_chain": "小箱怪 → 迷迷箱怪",
+        "representative": "迷迷箱怪",
+        "member_count": 2,
+        "chain_members": [
+          "小箱怪",
+          "迷迷箱怪"
+        ]
+      },
+      {
+        "family_chain": "拉特 → 酷拉",
+        "representative": "酷拉",
+        "member_count": 2,
+        "chain_members": [
+          "拉特",
+          "酷拉"
+        ]
+      },
+      {
+        "family_chain": "里拉鳐",
+        "representative": "里拉鳐",
+        "member_count": 1,
+        "chain_members": [
+          "里拉鳐"
+        ]
+      },
+      {
+        "family_chain": "大耳帽兜 → 帽兜娃娃 → 雪影娃娃",
+        "representative": "雪影娃娃",
+        "member_count": 3,
+        "chain_members": [
+          "大耳帽兜",
+          "帽兜娃娃",
+          "雪影娃娃"
+        ]
+      },
+      {
+        "family_chain": "雪娃娃 → 冰封怨灵 → 雪灵",
+        "representative": "雪灵",
+        "member_count": 3,
+        "chain_members": [
+          "雪娃娃",
+          "冰封怨灵",
+          "雪灵"
+        ]
+      },
+      {
+        "family_chain": "绿翼鸟 → 魔翼鸟 → 魔眷鸟",
+        "representative": "魔眷鸟",
+        "member_count": 3,
+        "chain_members": [
+          "绿翼鸟",
+          "魔翼鸟",
+          "魔眷鸟"
+        ]
+      },
+      {
+        "family_chain": "绿草精灵 → 魔草巫灵",
+        "representative": "魔草巫灵",
+        "member_count": 2,
+        "chain_members": [
+          "绿草精灵",
+          "魔草巫灵"
+        ]
+      },
+      {
+        "family_chain": "小黑猫 → 黑猫巫师",
+        "representative": "黑猫巫师",
+        "member_count": 2,
+        "chain_members": [
+          "小黑猫",
+          "黑猫巫师"
+        ]
+      }
+    ],
+    "pet_names": [
+      "仪使者",
+      "仪式之星",
+      "仪式巨像",
+      "甜田螺",
+      "壳乙螺",
+      "卡洛儿",
+      "书魔虫",
+      "书卷守护",
+      "古卷执政官",
+      "古卷匣魔像",
+      "恶魔叮",
+      "叮叮恶魔",
+      "嘟嘟煲",
+      "嘟嘟锅",
+      "号儿鱼",
+      "圆号鱼",
+      "粉粉星",
+      "小皮球",
+      "幽影树",
+      "毛头小蛛",
+      "捕尘长绒",
+      "食尘短绒",
+      "春团",
+      "春兔",
+      "春花兔",
+      "幽星光",
+      "曜星光",
+      "暮星辰",
+      "小夜",
+      "紫夜",
+      "朔夜伊芙",
+      "格兰种子",
+      "格兰花",
+      "格兰球",
+      "梦游",
+      "梦悠悠",
+      "棋棋",
+      "棋骑士",
+      "棋绮后",
+      "棋齐垒",
+      "棋祈督",
+      "水滴蛇",
+      "水蛇锁",
+      "游蛇魔使",
+      "画精灵",
+      "画像守护",
+      "画间法师手",
+      "画间沉铁兽",
+      "粉星仔",
+      "粉耳星兔",
+      "落陨星兔",
+      "治愈兔",
+      "红丝绒",
+      "红绒十字",
+      "裘洛",
+      "裘力",
+      "裘卡",
+      "小箱怪",
+      "迷迷箱怪",
+      "拉特",
+      "酷拉",
+      "里拉鳐",
+      "大耳帽兜",
+      "帽兜娃娃",
+      "雪影娃娃",
+      "雪娃娃",
+      "冰封怨灵",
+      "雪灵",
+      "绿翼鸟",
+      "魔翼鸟",
+      "魔眷鸟",
+      "绿草精灵",
+      "魔草巫灵",
+      "小黑猫",
+      "黑猫巫师"
+    ]
   },
   {
     "group_id": 8,
