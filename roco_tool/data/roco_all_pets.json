@@ -1,0 +1,1102 @@
+[
+    {
+        "name": "乌拉塔",
+        "type": "恶, 火元素精灵",
+        "family_chain": "乌达（极昼的样子） → 迷你乌（极昼的样子） → 乌拉塔（极昼的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3538.png?sign=57ec97c1f552e2d94ba3f60004fb3b76&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3538.png?sign=5c611aeff0e771cf8a2e6ae9dc8eaeb2&t=69d3e8dd",
+        "local_avatar": "images/avatars/乌拉塔.png",
+        "local_body": "images/full_body/乌拉塔.png"
+    },
+    {
+        "name": "千棘盔",
+        "type": "水, 毒元素精灵",
+        "family_chain": "海盔虫（本来的样子） → 刺盔虫（本来的样子） → 千棘盔（本来的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3332.png?sign=3d524c7b0b3d97bbc60015a65af25730&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3332.png?sign=7c28aecf3f6966bb8386190f3e5b3a96&t=69d3e8dd",
+        "local_avatar": "images/avatars/千棘盔.png",
+        "local_body": "images/full_body/千棘盔.png"
+    },
+    {
+        "name": "古卷执政官",
+        "type": "普通, 幻元素精灵",
+        "family_chain": "书魔虫 → 书卷守护 → 古卷执政官, 古卷匣魔像",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3612.png?sign=6f3051401dbb677723923c7bfb0280f4&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3612.png?sign=e0cf28a43bf5cf3719ebf0bf6e12ca9c&t=69d3e8dd",
+        "local_avatar": "images/avatars/古卷执政官.png",
+        "local_body": "images/full_body/古卷执政官.png"
+    },
+    {
+        "name": "噼啪鸟",
+        "type": "电, 翼元素精灵",
+        "family_chain": "噼啪鸟",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3444.png?sign=fe2d7d85706dfbc915279922525d882b&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3444.png?sign=9f6e1e8b036d47fd58ccb7005a8b46b4&t=69d3e8dd",
+        "local_avatar": "images/avatars/噼啪鸟.png",
+        "local_body": "images/full_body/噼啪鸟.png"
+    },
+    {
+        "name": "圣剑-X",
+        "type": "机械元素精灵",
+        "family_chain": "圣剑侍从 → 圣剑-X",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3546.png?sign=a850f458c2a5bf32f7a408dccf4e645b&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3546.png?sign=451fcf81e1de32aefe1421ffc5b8dfff&t=69d3e8dd",
+        "local_avatar": "images/avatars/圣剑-X.png",
+        "local_body": "images/full_body/圣剑-X.png"
+    },
+    {
+        "name": "夜枭",
+        "type": "幽元素精灵",
+        "family_chain": "空空颅 → 夜宿颅 → 夜枭",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3150.png?sign=564b3d397efaf95a1df8eeabb5463b1c&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3150.png?sign=1ed08679741d599a7852b1aa76f330b6&t=69d3e8dd",
+        "local_avatar": "images/avatars/夜枭.png",
+        "local_body": "images/full_body/夜枭.png"
+    },
+    {
+        "name": "寂灭骨龙",
+        "type": "龙, 幽元素精灵",
+        "family_chain": "大头骨龙 → 寂灭骨龙",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3269.png?sign=83d66130a71c8a12b298f34cf9efc149&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3269.png?sign=6a8489dc2518f2db284c134b1d084c4c&t=69d3e8dd",
+        "local_avatar": "images/avatars/寂灭骨龙.png",
+        "local_body": "images/full_body/寂灭骨龙.png"
+    },
+    {
+        "name": "布克棱岩",
+        "type": "地元素精灵",
+        "family_chain": "布是石 → 布是岩 → 布克棱岩",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3105.png?sign=6e680ae72683f9d57c2dea09094a3b56&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3105.png?sign=6af483d898f33a1369956c4c17b9751c&t=69d3e8dd",
+        "local_avatar": "images/avatars/布克棱岩.png",
+        "local_body": "images/full_body/布克棱岩.png"
+    },
+    {
+        "name": "恶魔红钻",
+        "type": "虫, 恶元素精灵",
+        "family_chain": "矮脚爬爬 → 恶魔红钻",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3179.png?sign=3fb6d506f9bbb0afc816bd0d917d9a24&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3179.png?sign=e45061ecda38866044309cf83cafce04&t=69d3e8dd",
+        "local_avatar": "images/avatars/恶魔红钻.png",
+        "local_body": "images/full_body/恶魔红钻.png"
+    },
+    {
+        "name": "暮星辰",
+        "type": "幻, 翼元素精灵",
+        "family_chain": "幽星光 → 曜星光 → 暮星辰",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3371.png?sign=834d3e5e05501d47437d782dd4b94087&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3371.png?sign=e406a332cdf8f536785df3ed83655971&t=69d3e8dd",
+        "local_avatar": "images/avatars/暮星辰.png",
+        "local_body": "images/full_body/暮星辰.png"
+    },
+    {
+        "name": "月牙雪熊",
+        "type": "冰, 幻元素精灵",
+        "family_chain": "月牙雪熊",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3457.png?sign=b3a3800d62256f3c6c356506ed02c221&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3457.png?sign=7252d7eb918dda5653886c34fc790cfa&t=69d3e8dd",
+        "local_avatar": "images/avatars/月牙雪熊.png",
+        "local_body": "images/full_body/月牙雪熊.png"
+    },
+    {
+        "name": "梦想三三",
+        "type": "萌元素精灵",
+        "family_chain": "逗逗 → 气球猫 → 梦想三三",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3375.png?sign=b1850439f1077368cd660ed54706d423&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3375.png?sign=40bb1a13b7916fceb21916c769f6b6da&t=69d3e8dd",
+        "local_avatar": "images/avatars/梦想三三.png",
+        "local_body": "images/full_body/梦想三三.png"
+    },
+    {
+        "name": "波多西",
+        "type": "机械, 地元素精灵",
+        "family_chain": "多西 → 库多西 → 波多西",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3208.png?sign=85f220a2206aa621f9114608778aff43&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3208.png?sign=1ef38b9251bddc53ba723c22e11f17d9&t=69d3e8dd",
+        "local_avatar": "images/avatars/波多西.png",
+        "local_body": "images/full_body/波多西.png"
+    },
+    {
+        "name": "深蓝鲸",
+        "type": "水元素精灵",
+        "family_chain": "深蓝鲸",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3381.png?sign=78136c0c96d05c3f360ba860d67076ba&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3381.png?sign=a065c1cf21381558a0cb25f8277b271a&t=69d3e8dd",
+        "local_avatar": "images/avatars/深蓝鲸.png",
+        "local_body": "images/full_body/深蓝鲸.png"
+    },
+    {
+        "name": "火焰猿",
+        "type": "火元素精灵",
+        "family_chain": "可爱猿 → 炽热猿 → 火焰猿",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3085.png?sign=ee8a76e0af4943ec67cf78aa471e6638&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3085.png?sign=fafe01b1aa7c3c179910eabfc8411b48&t=69d3e8dd",
+        "local_avatar": "images/avatars/火焰猿.png",
+        "local_body": "images/full_body/火焰猿.png"
+    },
+    {
+        "name": "烈火守护",
+        "type": "火元素精灵",
+        "family_chain": "火尾瓦特 → 火尾战士 → 烈火守护",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3092.png?sign=780fb323b1f70ea16c470e18e3c7f297&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3092.png?sign=df6aa17fcdc3142969626dd169151b7e&t=69d3e8dd",
+        "local_avatar": "images/avatars/烈火守护.png",
+        "local_body": "images/full_body/烈火守护.png"
+    },
+    {
+        "name": "画间法师手",
+        "type": "普通, 幻元素精灵",
+        "family_chain": "画精灵 → 画像守护 → 画间法师手, 画间沉铁兽",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3608.png?sign=42d5689790730313f4eff5f96412137c&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3608.png?sign=5be9b603f74bfa1cf54de00986dcb9ee&t=69d3e8dd",
+        "local_avatar": "images/avatars/画间法师手.png",
+        "local_body": "images/full_body/画间法师手.png"
+    },
+    {
+        "name": "白金独角兽",
+        "type": "光元素精灵",
+        "family_chain": "小独角兽 → 白金独角兽",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3063.png?sign=b0d1cbb314b8f170c31411b694566781&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3063.png?sign=5815287b63c9cb078377c4bf9a87dc58&t=69d3e8dd",
+        "local_avatar": "images/avatars/白金独角兽.png",
+        "local_body": "images/full_body/白金独角兽.png"
+    },
+    {
+        "name": "瞌睡王",
+        "type": "普通, 武元素精灵",
+        "family_chain": "白发懒人 → 动力猿 → 瞌睡王",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3102.png?sign=c5794c25bdec5e700cdca36c1ac4c6cf&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3102.png?sign=2de2573957d4b51c222c143048afc06a&t=69d3e8dd",
+        "local_avatar": "images/avatars/瞌睡王.png",
+        "local_body": "images/full_body/瞌睡王.png"
+    },
+    {
+        "name": "罗隐",
+        "type": "地, 恶元素精灵",
+        "family_chain": "阿米亚特 → 阿米樱 → 罗隐",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3016.png?sign=5d57f896ec81e916c927431cd09ce439&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3016.png?sign=7bdba4e4f97a74211a20166cdb14c542&t=69d3e8dd",
+        "local_avatar": "images/avatars/罗隐.png",
+        "local_body": "images/full_body/罗隐.png"
+    },
+    {
+        "name": "雪巨人",
+        "type": "冰元素精灵",
+        "family_chain": "雪豆丁 → 雪蛮人 → 雪巨人",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3174.png?sign=7685f6976fc236a7c5abf92eaf2a6eec&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3174.png?sign=e740b255ba1facc9a1243987e4e15ee0&t=69d3e8dd",
+        "local_avatar": "images/avatars/雪巨人.png",
+        "local_body": "images/full_body/雪巨人.png"
+    },
+    {
+        "name": "上岸蛙",
+        "type": "幻元素精灵",
+        "family_chain": "布瓜蝌 → 上岸蛙",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3474.png?sign=51efc28259795543283973cb26c86ace&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3474.png?sign=bc0de4c97d7de97f68cc1454b2b468ba&t=69d3e8dd",
+        "local_avatar": "images/avatars/上岸蛙.png",
+        "local_body": "images/full_body/上岸蛙.png"
+    },
+    {
+        "name": "卡瓦重",
+        "type": "草, 地元素精灵",
+        "family_chain": "丢丢（沙地附近的样子） → 卡卡虫（沙地附近的样子） → 卡瓦重（沙地附近的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3295.png?sign=ed5dd111fc78e35d7d05abbcc7def3d1&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3295.png?sign=afdbfb416e5d1084400111962dd9e845&t=69d3e8dd",
+        "local_avatar": "images/avatars/卡瓦重.png",
+        "local_body": "images/full_body/卡瓦重.png"
+    },
+    {
+        "name": "卷毛鸭",
+        "type": "草, 武元素精灵",
+        "family_chain": "草头鸭 → 卷毛鸭",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3067.png?sign=e513e07c1cb6532324adb84a162373f9&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3067.png?sign=ef5995c5ffc8d76a7e6b15c93945517f&t=69d3e8dd",
+        "local_avatar": "images/avatars/卷毛鸭.png",
+        "local_body": "images/full_body/卷毛鸭.png"
+    },
+    {
+        "name": "卷胡巨獭",
+        "type": "普通, 水元素精灵",
+        "family_chain": "小鼠獭 → 燕尾獭 → 卷胡巨獭",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3317.png?sign=a43f695f0f4e1302195daef66ef3a7b8&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3317.png?sign=0af6816c9c59d8e270b47e785c9a7d12&t=69d3e8dd",
+        "local_avatar": "images/avatars/卷胡巨獭.png",
+        "local_body": "images/full_body/卷胡巨獭.png"
+    },
+    {
+        "name": "嗜波螺",
+        "type": "地, 水元素精灵",
+        "family_chain": "波波螺 → 消波螺 → 嗜波螺",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3510.png?sign=0b0d4a02d59bf97d90ff3b9869dbd406&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3510.png?sign=e7ef71abfb26b0ec51578e44127d4399&t=69d3e8dd",
+        "local_avatar": "images/avatars/嗜波螺.png",
+        "local_body": "images/full_body/嗜波螺.png"
+    },
+    {
+        "name": "寒音蛇",
+        "type": "萌, 毒元素精灵",
+        "family_chain": "古钟蛇 → 寒音蛇",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3226.png?sign=2100fec9368c4e98699ce4d9c1e01324&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3226.png?sign=fb9f951248a30694eec994309bce2187&t=69d3e8dd",
+        "local_avatar": "images/avatars/寒音蛇.png",
+        "local_body": "images/full_body/寒音蛇.png"
+    },
+    {
+        "name": "水泡壳",
+        "type": "水元素精灵",
+        "family_chain": "板板壳（本来的样子） → 咔咔壳（本来的样子） → 水泡壳（本来的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3057.png?sign=41c60dd84dd12a553beb5daaaa2e3521&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3057.png?sign=5144e50ccb7733028b587d7a6cd1a281&t=69d3e8dd",
+        "local_avatar": "images/avatars/水泡壳.png",
+        "local_body": "images/full_body/水泡壳.png"
+    },
+    {
+        "name": "泥吼牙",
+        "type": "地, 翼元素精灵",
+        "family_chain": "吸泥鸥 → 泥吼牙",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3491.png?sign=697563ff9373b1c52e5a7cbe0cf267ba&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3491.png?sign=5d52f3ba77f4eb38516ae4d8629952cf&t=69d3e8dd",
+        "local_avatar": "images/avatars/泥吼牙.png",
+        "local_body": "images/full_body/泥吼牙.png"
+    },
+    {
+        "name": "海豹船长",
+        "type": "武, 水元素精灵",
+        "family_chain": "海豹战士 → 海豹船长",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3216.png?sign=d172588b0288084a2c508858b25af529&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3216.png?sign=2a5d38bb3c5232bfb85f604dedd22683&t=69d3e8dd",
+        "local_avatar": "images/avatars/海豹船长.png",
+        "local_body": "images/full_body/海豹船长.png"
+    },
+    {
+        "name": "游蛇魔使",
+        "type": "水, 武元素精灵",
+        "family_chain": "水滴蛇 → 水蛇锁 → 游蛇魔使",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3599.png?sign=218bdd9a56a34e638dd2c219226756f2&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3599.png?sign=7a9516edd2f22445b3e06c62958f4d42&t=69d3e8dd",
+        "local_avatar": "images/avatars/游蛇魔使.png",
+        "local_body": "images/full_body/游蛇魔使.png"
+    },
+    {
+        "name": "石冠王蜥",
+        "type": "地元素精灵",
+        "family_chain": "石肤蜥（本来的样子） → 石刺蜥（本来的样子） → 石冠王蜥（本来的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3108.png?sign=609ffdb25e64bee91effc5066f6a257a&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3108.png?sign=e8d1b77075c97c89546661721777f255&t=69d3e8dd",
+        "local_avatar": "images/avatars/石冠王蜥.png",
+        "local_body": "images/full_body/石冠王蜥.png"
+    },
+    {
+        "name": "翠顶夫人",
+        "type": "翼, 水元素精灵",
+        "family_chain": "乖乖鹄 → 蓝珠天鹅 → 翠顶夫人, 黑羽夫人",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3346.png?sign=ac17f26abb36d33e4c8be2186a2d3f8e&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3346.png?sign=3430c99eab5107fcaf9c0387baf78557&t=69d3e8dd",
+        "local_avatar": "images/avatars/翠顶夫人.png",
+        "local_body": "images/full_body/翠顶夫人.png"
+    },
+    {
+        "name": "锤头鹳",
+        "type": "翼, 水元素精灵",
+        "family_chain": "锤头鹳",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3069.png?sign=725a40453dab4ac2ee9a78cd06870167&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3069.png?sign=2426f81777e3062d539d827aca417b14&t=69d3e8dd",
+        "local_avatar": "images/avatars/锤头鹳.png",
+        "local_body": "images/full_body/锤头鹳.png"
+    },
+    {
+        "name": "鳗尾兽",
+        "type": "地, 草元素精灵",
+        "family_chain": "花怨鳗 → 鳗尾兽",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3507.png?sign=55c9b7f2bd5610fb0ae10594c96a85d4&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3507.png?sign=7abe2433ab23f87eafac85e62461d2f8&t=69d3e8dd",
+        "local_avatar": "images/avatars/鳗尾兽.png",
+        "local_body": "images/full_body/鳗尾兽.png"
+    },
+    {
+        "name": "化蝶",
+        "type": "虫, 萌元素精灵",
+        "family_chain": "毛毛 → 爬爬 → 化蝶（平常的样子）, 化蝶（幽冥眼的样子）, 化蝶（喵喵的样子）, 化蝶（奇丽花的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3138.png?sign=94a3604ba414234456c6f6415e31dc3f&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3138.png?sign=2ee14138fa76ed7c6dd31302062b6b5a&t=69d3e8dd",
+        "local_avatar": "images/avatars/化蝶.png",
+        "local_body": "images/full_body/化蝶.png"
+    },
+    {
+        "name": "捕尘长绒",
+        "type": "虫, 地元素精灵",
+        "family_chain": "毛头小蛛 → 捕尘长绒, 食尘短绒",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3604.png?sign=681ad2d9bb26ac411dced93f3b2c46d6&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3604.png?sign=6a62e7ef97e8e766550984065d373ae8&t=69d3e8dd",
+        "local_avatar": "images/avatars/捕尘长绒.png",
+        "local_body": "images/full_body/捕尘长绒.png"
+    },
+    {
+        "name": "燃薪虫",
+        "type": "火, 草元素精灵",
+        "family_chain": "柴渣虫 → 燃薪虫",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3437.png?sign=b58a6ab9ccb6ebd62ef658292b2a9762&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3437.png?sign=e870f4fe1be002b23dfa8b96ad5797b8&t=69d3e8dd",
+        "local_avatar": "images/avatars/燃薪虫.png",
+        "local_body": "images/full_body/燃薪虫.png"
+    },
+    {
+        "name": "窃光蚊",
+        "type": "恶, 光元素精灵",
+        "family_chain": "嗜光嗡嗡 → 窃光蚊",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3615.png?sign=2459ad2a2ee739f82eb91277ba1b9b4e&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3615.png?sign=7711c34f051535c330b3e39ae85885b1&t=69d3e8dd",
+        "local_avatar": "images/avatars/窃光蚊.png",
+        "local_body": "images/full_body/窃光蚊.png"
+    },
+    {
+        "name": "芋香巨角蛛",
+        "type": "虫, 毒元素精灵",
+        "family_chain": "圆眼蜘蛛 → 尖角蜘蛛 → 芋香巨角蛛",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3132.png?sign=e10d30d3e34416aca5a31a4bdefee482&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3132.png?sign=20c917306a520ac4bc4d8a4cd669813b&t=69d3e8dd",
+        "local_avatar": "images/avatars/芋香巨角蛛.png",
+        "local_body": "images/full_body/芋香巨角蛛.png"
+    },
+    {
+        "name": "花衣蝶",
+        "type": "虫, 草元素精灵",
+        "family_chain": "小草虫 → 草衣虫 → 花衣蝶",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3141.png?sign=22043385903a34003ec5f2d444a3b365&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3141.png?sign=037e88082b5e6da1bec47bd17e9acc78&t=69d3e8dd",
+        "local_avatar": "images/avatars/花衣蝶.png",
+        "local_body": "images/full_body/花衣蝶.png"
+    },
+    {
+        "name": "花魁蜂后",
+        "type": "虫, 翼元素精灵",
+        "family_chain": "一窝蜂 → 黄蜂后 → 花魁蜂后",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3157.png?sign=55c54b343549cfeb68a262c4f77a13d7&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3157.png?sign=d3c1a4d5832f04ea3ce04b653fa5ca06&t=69d3e8dd",
+        "local_avatar": "images/avatars/花魁蜂后.png",
+        "local_body": "images/full_body/花魁蜂后.png"
+    },
+    {
+        "name": "铠甲虫",
+        "type": "虫元素精灵",
+        "family_chain": "小甲虫 → 铠甲虫",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3013.png?sign=02cbf55d7937142a70789310ee6ecb54&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3013.png?sign=11aac123ec5d4ff52a4d590fc4b909a4&t=69d3e8dd",
+        "local_avatar": "images/avatars/铠甲虫.png",
+        "local_body": "images/full_body/铠甲虫.png"
+    },
+    {
+        "name": "陨星虫",
+        "type": "虫元素精灵",
+        "family_chain": "星尘虫 → 落星虫 → 陨星虫",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3400.png?sign=dfd5d0e79f22396d8e47a5f48b673280&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3400.png?sign=d5eabde54c4230f615b51990fcf7a26f&t=69d3e8dd",
+        "local_avatar": "images/avatars/陨星虫.png",
+        "local_body": "images/full_body/陨星虫.png"
+    },
+    {
+        "name": "风滚暮虫",
+        "type": "普通, 虫元素精灵",
+        "family_chain": "旋叶虫（金黄的样子） → 蓬叶虫（金黄的样子） → 风滚暮虫（金黄的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3377.png?sign=d656c551140789f5b4bfeb9ca2045f46&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3377.png?sign=0bf4339408264e73a4b5cd422ebdead9&t=69d3e8dd",
+        "local_avatar": "images/avatars/风滚暮虫.png",
+        "local_body": "images/full_body/风滚暮虫.png"
+    },
+    {
+        "name": "公平鸽",
+        "type": "普通元素精灵",
+        "family_chain": "公平鸽",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3499.png?sign=e304dc30ebd41dc4e43639a921284b0e&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3499.png?sign=9d88e11834a4d3bf844310e224f7c796&t=69d3e8dd",
+        "local_avatar": "images/avatars/公平鸽.png",
+        "local_body": "images/full_body/公平鸽.png"
+    },
+    {
+        "name": "厉毒修萝",
+        "type": "毒, 恶元素精灵",
+        "family_chain": "厉毒小萝 → 厉毒修萝",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3420.png?sign=67d6d3aeec846928f6044a1a32341039&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3420.png?sign=c94efb27a6eff68025f8367de4561f84&t=69d3e8dd",
+        "local_avatar": "images/avatars/厉毒修萝.png",
+        "local_body": "images/full_body/厉毒修萝.png"
+    },
+    {
+        "name": "咔咔鸟",
+        "type": "翼, 普通元素精灵",
+        "family_chain": "咔咔羽毛 → 咔咔雀 → 咔咔鸟",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3177.png?sign=8e527c6b633728960360034fd731a0e3&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3177.png?sign=b93c0166903e20cbbcf94815f782ccdd&t=69d3e8dd",
+        "local_avatar": "images/avatars/咔咔鸟.png",
+        "local_body": "images/full_body/咔咔鸟.png"
+    },
+    {
+        "name": "岚鸟",
+        "type": "翼元素精灵",
+        "family_chain": "雪绒鸟（夏天的样子） → 冬羽雀（夏天的样子） → 岚鸟（夏天的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3286.png?sign=985b4a6e7a9d8e89deed22919566ca4e&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3286.png?sign=d8263d9913a89e31baaeee95b7582544&t=69d3e8dd",
+        "local_avatar": "images/avatars/岚鸟.png",
+        "local_body": "images/full_body/岚鸟.png"
+    },
+    {
+        "name": "帕帕斯卡",
+        "type": "机械, 翼元素精灵",
+        "family_chain": "螺旋帕帕 → 帕帕斯卡",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3547.png?sign=42f67b908a58745639a51e728e10612f&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3547.png?sign=f40ff8fa398543bc5f9a3323a7472aff&t=69d3e8dd",
+        "local_avatar": "images/avatars/帕帕斯卡.png",
+        "local_body": "images/full_body/帕帕斯卡.png"
+    },
+    {
+        "name": "彩蝶鲨",
+        "type": "水, 翼元素精灵",
+        "family_chain": "风铃鲨 → 蓝蝶鲨 → 彩蝶鲨",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3117.png?sign=9c8965e32142283a1f350fb6146bb64a&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3117.png?sign=0002f51e35a05bc3b01aa98a97286ce2&t=69d3e8dd",
+        "local_avatar": "images/avatars/彩蝶鲨.png",
+        "local_body": "images/full_body/彩蝶鲨.png"
+    },
+    {
+        "name": "斑枭",
+        "type": "翼元素精灵",
+        "family_chain": "斑斑 → 斑枭",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3535.png?sign=9dd7d05c5090c4f9af82afd4811bb154&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3535.png?sign=afa11a55c17bd5912ce285494d8fc3dd&t=69d3e8dd",
+        "local_avatar": "images/avatars/斑枭.png",
+        "local_body": "images/full_body/斑枭.png"
+    },
+    {
+        "name": "电企鹅",
+        "type": "冰, 电元素精灵",
+        "family_chain": "小电企鹅 → 电企鹅",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3435.png?sign=25bb73a1d76c8f4c3dd3f25164ca3119&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3435.png?sign=bc83b8aa0db995367a20d478309407a1&t=69d3e8dd",
+        "local_avatar": "images/avatars/电企鹅.png",
+        "local_body": "images/full_body/电企鹅.png"
+    },
+    {
+        "name": "皇家狮鹫",
+        "type": "翼元素精灵",
+        "family_chain": "小狮鹫（崖间地的样子） → 神圣狮鹫（崖间地的样子） → 皇家狮鹫（崖间地的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3129.png?sign=c81747fcb379c4fc1d0540fccd484e0c&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3129.png?sign=5791cee1073e9929bb12170ab8a60fc9&t=69d3e8dd",
+        "local_avatar": "images/avatars/皇家狮鹫.png",
+        "local_body": "images/full_body/皇家狮鹫.png"
+    },
+    {
+        "name": "粉耳星兔",
+        "type": "幻元素精灵",
+        "family_chain": "粉星仔 → 粉耳星兔, 落陨星兔",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3320.png?sign=cc1c4a4169d02598d93da2a2f6a94421&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3320.png?sign=a6d9e2f84a1130bf1eff73acaadf9fbe&t=69d3e8dd",
+        "local_avatar": "images/avatars/粉耳星兔.png",
+        "local_body": "images/full_body/粉耳星兔.png"
+    },
+    {
+        "name": "绅士鸡",
+        "type": "火, 武元素精灵",
+        "family_chain": "可立鸡 → 晕晕鸡 → 绅士鸡, 武者鸡",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3088.png?sign=82aa17d5875774b52a01b83a18e7a804&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3088.png?sign=2734bb28bfc2ad04f1e419c70c7294ee&t=69d3e8dd",
+        "local_avatar": "images/avatars/绅士鸡.png",
+        "local_body": "images/full_body/绅士鸡.png"
+    },
+    {
+        "name": "翼龙",
+        "type": "龙, 翼元素精灵",
+        "family_chain": "小翼龙 → 翼龙",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3210.png?sign=72dfa99150ba6282eafeb2f59f1e16dd&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3210.png?sign=ec8979946bc226b43ece93a686bae3fc&t=69d3e8dd",
+        "local_avatar": "images/avatars/翼龙.png",
+        "local_body": "images/full_body/翼龙.png"
+    },
+    {
+        "name": "蒲公英娃娃",
+        "type": "草, 萌元素精灵",
+        "family_chain": "蒲公英 → 蒲公英娃娃",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3027.png?sign=96c6181d52e47320cc58857c747add3e&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3027.png?sign=5fbc57d0f1a5508f8d472161ad1193b3&t=69d3e8dd",
+        "local_avatar": "images/avatars/蒲公英娃娃.png",
+        "local_body": "images/full_body/蒲公英娃娃.png"
+    },
+    {
+        "name": "高脚鹬",
+        "type": "翼元素精灵",
+        "family_chain": "小鹬 → 鄙目鹬 → 高脚鹬",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3252.png?sign=3afe1f8ddeb7228ef912ecb609b24acc&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3252.png?sign=d9b2b044579b680909213f621fb00060&t=69d3e8dd",
+        "local_avatar": "images/avatars/高脚鹬.png",
+        "local_body": "images/full_body/高脚鹬.png"
+    },
+    {
+        "name": "魔眷鸟",
+        "type": "萌, 翼元素精灵",
+        "family_chain": "绿翼鸟 → 魔翼鸟 → 魔眷鸟",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3278.png?sign=c4a2826dcfa9cd3f412c8bd55b2560b3&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3278.png?sign=e7dcb4830757339bd40cc48c7ba6f8d8&t=69d3e8dd",
+        "local_avatar": "images/avatars/魔眷鸟.png",
+        "local_body": "images/full_body/魔眷鸟.png"
+    },
+    {
+        "name": "鸭吉吉",
+        "type": "普通元素精灵",
+        "family_chain": "鸭吉吉（急急急鸭）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3452.png?sign=bb4a6a163addeae62f6bbd716f1a5df9&t=69d3e8dd",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3452.png?sign=81ab05397f41390aa39f5b842e70081f&t=69d3e8dd",
+        "local_avatar": "images/avatars/鸭吉吉.png",
+        "local_body": "images/full_body/鸭吉吉.png"
+    },
+    {
+        "name": "仪式巨像",
+        "type": "地, 幻元素精灵",
+        "family_chain": "仪使者 → 仪式之星 → 仪式巨像",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3111.png?sign=173095b7c9228924fdd255cd1c21b037&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3111.png?sign=5bda453cad5c3ef300c5d4dc8b430dda&t=69d3e957",
+        "local_avatar": "images/avatars/仪式巨像.png",
+        "local_body": "images/full_body/仪式巨像.png"
+    },
+    {
+        "name": "卡洛儿",
+        "type": "水, 萌元素精灵",
+        "family_chain": "甜田螺 → 壳乙螺 → 卡洛儿",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/body/3114.png?sign=35835ce49fceda18836d35344345b693&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3114.png?sign=35835ce49fceda18836d35344345b693&t=69d3e957",
+        "local_avatar": "images/avatars/卡洛儿.png",
+        "local_body": "images/full_body/卡洛儿.png"
+    },
+    {
+        "name": "叮叮恶魔",
+        "type": "恶, 翼元素精灵",
+        "family_chain": "恶魔叮 → 叮叮恶魔",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3039.png?sign=a82f53e0968b23b004453cf6414853fe&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3039.png?sign=83a7f82feabc30af765a269df59d31d5&t=69d3e957",
+        "local_avatar": "images/avatars/叮叮恶魔.png",
+        "local_body": "images/full_body/叮叮恶魔.png"
+    },
+    {
+        "name": "嘟嘟锅",
+        "type": "毒元素精灵",
+        "family_chain": "嘟嘟煲 → 嘟嘟锅",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3368.png?sign=85e59e2e65ae37123d17a2a6df1ac54c&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3368.png?sign=ef948cae67dc4259194e54097425d44b&t=69d3e957",
+        "local_avatar": "images/avatars/嘟嘟锅.png",
+        "local_body": "images/full_body/嘟嘟锅.png"
+    },
+    {
+        "name": "圆号鱼",
+        "type": "水元素精灵",
+        "family_chain": "号儿鱼 → 圆号鱼",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3530.png?sign=137496f7b29c29b7b885240c6f0bcb43&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3530.png?sign=480a1cac6281cdee6a1794528939ac5f&t=69d3e957",
+        "local_avatar": "images/avatars/圆号鱼.png",
+        "local_body": "images/full_body/圆号鱼.png"
+    },
+    {
+        "name": "小皮球",
+        "type": "电, 幻元素精灵",
+        "family_chain": "粉粉星 → 小皮球",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3199.png?sign=2d8c8f13a50cbf4c613399de5d4f6af9&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3199.png?sign=e20b08306ddee3d42d3ece33a74acd84&t=69d3e957",
+        "local_avatar": "images/avatars/小皮球.png",
+        "local_body": "images/full_body/小皮球.png"
+    },
+    {
+        "name": "幽影树",
+        "type": "幽, 草元素精灵",
+        "family_chain": "幽影树",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3064.png?sign=6c72d9a95170acbdec243cae4fc90661&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3064.png?sign=1f57c7ea026a20f3c5328565cfba1e5d&t=69d3e957",
+        "local_avatar": "images/avatars/幽影树.png",
+        "local_body": "images/full_body/幽影树.png"
+    },
+    {
+        "name": "春花兔",
+        "type": "草元素精灵",
+        "family_chain": "春团 → 春兔 → 春花兔",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3372.png?sign=128ca3930db09d0f7bd10c8f770e7c17&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3372.png?sign=546da59b3bcd831a9e8b24e0247b89b4&t=69d3e957",
+        "local_avatar": "images/avatars/春花兔.png",
+        "local_body": "images/full_body/春花兔.png"
+    },
+    {
+        "name": "朔夜伊芙",
+        "type": "恶元素精灵",
+        "family_chain": "小夜 → 紫夜 → 朔夜伊芙",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3144.png?sign=1e6b685a1aa517f6e5eb50530ddaefd2&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3144.png?sign=e9aabd71bf6eb38e6e2624f4056226e3&t=69d3e957",
+        "local_avatar": "images/avatars/朔夜伊芙.png",
+        "local_body": "images/full_body/朔夜伊芙.png"
+    },
+    {
+        "name": "格兰球",
+        "type": "草元素精灵",
+        "family_chain": "格兰种子 → 格兰花 → 格兰球",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3074.png?sign=cfd50263c40478778c503dc1cd7fe3b4&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3074.png?sign=df6626451a0399f8c04ecb91d53e42be&t=69d3e957",
+        "local_avatar": "images/avatars/格兰球.png",
+        "local_body": "images/full_body/格兰球.png"
+    },
+    {
+        "name": "梦悠悠",
+        "type": "幽元素精灵",
+        "family_chain": "梦游（穿旧睡衣的样子） → 梦悠悠（穿旧睡衣的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3439.png?sign=0da4dc1c1db6970c8c1132021fa9b213&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3439.png?sign=c334aa6edb2674bb092d7955849bc6de&t=69d3e957",
+        "local_avatar": "images/avatars/梦悠悠.png",
+        "local_body": "images/full_body/梦悠悠.png"
+    },
+    {
+        "name": "棋骑士",
+        "type": "武, 地元素精灵",
+        "family_chain": "棋棋（白子） → 棋骑士（白子）, 棋绮后（白子）, 棋齐垒（白子）, 棋祈督（白子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3551.png?sign=6024200788c7f767919093ecb3ba752d&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3551.png?sign=e4f4eb1fe2b6e4b281b0ae16e3e976ed&t=69d3e957",
+        "local_avatar": "images/avatars/棋骑士.png",
+        "local_body": "images/full_body/棋骑士.png"
+    },
+    {
+        "name": "红绒十字",
+        "type": "火, 萌元素精灵",
+        "family_chain": "治愈兔 → 红丝绒 → 红绒十字",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3350.png?sign=e80a0e8c3d281f521a029f83f13f4c1a&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3350.png?sign=815176e5ea063c497a93b08e00b92bba&t=69d3e957",
+        "local_avatar": "images/avatars/红绒十字.png",
+        "local_body": "images/full_body/红绒十字.png"
+    },
+    {
+        "name": "裘卡",
+        "type": "毒元素精灵",
+        "family_chain": "裘洛 → 裘力 → 裘卡",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3156.png?sign=a0df95de7bba060d4cbafd32159451d3&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3156.png?sign=107fe25c187932ba6a669c08b8f9cb5d&t=69d3e957",
+        "local_avatar": "images/avatars/裘卡.png",
+        "local_body": "images/full_body/裘卡.png"
+    },
+    {
+        "name": "迷迷箱怪",
+        "type": "机械, 幻元素精灵",
+        "family_chain": "小箱怪 → 迷迷箱怪",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3619.png?sign=ae79b0a4df17351ec64a74cc0c862097&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3619.png?sign=ee7095013126c27f1821929cc3525dab&t=69d3e957",
+        "local_avatar": "images/avatars/迷迷箱怪.png",
+        "local_body": "images/full_body/迷迷箱怪.png"
+    },
+    {
+        "name": "酷拉",
+        "type": "电元素精灵",
+        "family_chain": "拉特 → 酷拉",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3189.png?sign=1476ab365d8e4e3fafdc77725736f53b&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3189.png?sign=4dd99e1ae9e6a90c16a54dd2e06d176b&t=69d3e957",
+        "local_avatar": "images/avatars/酷拉.png",
+        "local_body": "images/full_body/酷拉.png"
+    },
+    {
+        "name": "里拉鳐",
+        "type": "水元素精灵",
+        "family_chain": "里拉鳐",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3521.png?sign=3f9481b05d9b00974aeb48ab1905a775&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3521.png?sign=3d514db113971e19af3397df417b4777&t=69d3e957",
+        "local_avatar": "images/avatars/里拉鳐.png",
+        "local_body": "images/full_body/里拉鳐.png"
+    },
+    {
+        "name": "雪影娃娃",
+        "type": "冰, 萌元素精灵",
+        "family_chain": "大耳帽兜 → 帽兜娃娃 → 雪影娃娃",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3123.png?sign=ae1dc2ba6e99178760b4481b1558bee4&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3123.png?sign=0f87d9ee40c8d63af71300606b5c0729&t=69d3e957",
+        "local_avatar": "images/avatars/雪影娃娃.png",
+        "local_body": "images/full_body/雪影娃娃.png"
+    },
+    {
+        "name": "雪灵",
+        "type": "冰元素精灵",
+        "family_chain": "雪娃娃 → 冰封怨灵 → 雪灵",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3335.png?sign=11ba1df0503bf8dc368d230f1194c9a2&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3335.png?sign=33d004950f6dfc74333f18b56d36eaf4&t=69d3e957",
+        "local_avatar": "images/avatars/雪灵.png",
+        "local_body": "images/full_body/雪灵.png"
+    },
+    {
+        "name": "魔草巫灵",
+        "type": "草, 幻元素精灵",
+        "family_chain": "绿草精灵 → 魔草巫灵",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3035.png?sign=d8940c4b9d0947cb9c235dd646062319&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3035.png?sign=e802ee7119ab7c58c03ade4431cbe3ca&t=69d3e957",
+        "local_avatar": "images/avatars/魔草巫灵.png",
+        "local_body": "images/full_body/魔草巫灵.png"
+    },
+    {
+        "name": "黑猫巫师",
+        "type": "普通元素精灵",
+        "family_chain": "小黑猫 → 黑猫巫师",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3569.png?sign=67875447adfd78619e47d5718ff8a0d5&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3569.png?sign=1a44e07cbc484099569036b578405732&t=69d3e957",
+        "local_avatar": "images/avatars/黑猫巫师.png",
+        "local_body": "images/full_body/黑猫巫师.png"
+    },
+    {
+        "name": "九幽菇",
+        "type": "地, 草元素精灵",
+        "family_chain": "菇菇丁 → 多菇丁 → 九幽菇",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3380.png?sign=451f5d41be183b330f4f00b284efe6bb&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3380.png?sign=cb93cb517d61a74f2f35fa4284288291&t=69d3e957",
+        "local_avatar": "images/avatars/九幽菇.png",
+        "local_body": "images/full_body/九幽菇.png"
+    },
+    {
+        "name": "伊贝粉粉",
+        "type": "草元素精灵",
+        "family_chain": "伊贝儿 → 伊贝粉粉",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3044.png?sign=d98a79059047d825c551a8860be7306c&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3044.png?sign=3b50b97da0413d780a3e2614a6d3c547&t=69d3e957",
+        "local_avatar": "images/avatars/伊贝粉粉.png",
+        "local_body": "images/full_body/伊贝粉粉.png"
+    },
+    {
+        "name": "兽花蕾",
+        "type": "光, 草元素精灵",
+        "family_chain": "兽花蕾",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3492.png?sign=701a31152101410c9e2e7f5867894195&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3492.png?sign=e32ca9cef7a15178788fd5025ecfdcf5&t=69d3e957",
+        "local_avatar": "images/avatars/兽花蕾.png",
+        "local_body": "images/full_body/兽花蕾.png"
+    },
+    {
+        "name": "奇丽花",
+        "type": "草元素精灵",
+        "family_chain": "奇丽草 → 奇丽叶 → 奇丽花",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3031.png?sign=2e31c263b86a6647dd03c915ca01ed98&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3031.png?sign=b38433c7c24ddca7807e25a1492ffcd4&t=69d3e957",
+        "local_avatar": "images/avatars/奇丽花.png",
+        "local_body": "images/full_body/奇丽花.png"
+    },
+    {
+        "name": "幻影灵菇",
+        "type": "幽, 草元素精灵",
+        "family_chain": "小灵菇 → 幻灵菇 → 幻影灵菇",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3147.png?sign=7396da2f420e3d31acaf514987c7ebf8&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3147.png?sign=9c90a3ac38e6673858c9be2b739dd210&t=69d3e957",
+        "local_avatar": "images/avatars/幻影灵菇.png",
+        "local_body": "images/full_body/幻影灵菇.png"
+    },
+    {
+        "name": "怖哭菇",
+        "type": "幻元素精灵",
+        "family_chain": "哭哭菇 → 怖须菇 → 怖哭菇",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3241.png?sign=e5f74a5fd6f52ba39ecccf4e2ac4459b&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3241.png?sign=d1b39522ef5795f045cf0ff02eb2c97d&t=69d3e957",
+        "local_avatar": "images/avatars/怖哭菇.png",
+        "local_body": "images/full_body/怖哭菇.png"
+    },
+    {
+        "name": "海枝枝",
+        "type": "水, 幽元素精灵",
+        "family_chain": "海枝枝（碧蓝珊瑚）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3430.png?sign=51b518470f16cb6ed0b50fa1d16d5b08&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3430.png?sign=74abf61ef209da4fb16b216fb411fcf1&t=69d3e957",
+        "local_avatar": "images/avatars/海枝枝.png",
+        "local_body": "images/full_body/海枝枝.png"
+    },
+    {
+        "name": "菊花梨",
+        "type": "萌元素精灵",
+        "family_chain": "菊花梨",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3227.png?sign=044965fbcc35fab6029cbd4676285c6c&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3227.png?sign=50b407a543dc02581c576e287e291265&t=69d3e957",
+        "local_avatar": "images/avatars/菊花梨.png",
+        "local_body": "images/full_body/菊花梨.png"
+    },
+    {
+        "name": "蹦蹦花",
+        "type": "草, 毒元素精灵",
+        "family_chain": "蹦蹦种子（彩玉球形态） → 蹦蹦草（彩玉球形态） → 蹦蹦花（彩玉球形态）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3303.png?sign=d9096b7e408f1d07281b24ff9976e59a&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3303.png?sign=7f27760a2d89a4028408eae5699d3895&t=69d3e957",
+        "local_avatar": "images/avatars/蹦蹦花.png",
+        "local_body": "images/full_body/蹦蹦花.png"
+    },
+    {
+        "name": "冰钻布鲁斯",
+        "type": "冰元素精灵",
+        "family_chain": "布鲁斯 → 雪顶布鲁斯 → 冰钻布鲁斯",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3259.png?sign=0c219c37751e3bf65666c82c09fbb0ee&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3259.png?sign=c9a28f6ed28bf911420a78b0fb69cffe&t=69d3e957",
+        "local_avatar": "images/avatars/冰钻布鲁斯.png",
+        "local_body": "images/full_body/冰钻布鲁斯.png"
+    },
+    {
+        "name": "圣代甜甜",
+        "type": "冰元素精灵",
+        "family_chain": "脆筒甜甜 → 香草甜甜, 香草甜甜（杨桃饰品）, 香草甜甜（蓝莓饰品） → 圣代甜甜, 圣代甜甜（樱桃草莓口味）, 圣代甜甜（樱桃抹茶口味）, 圣代甜甜（蓝莓巧克力口味）, 圣代甜甜（蓝莓草莓口味）, 圣代甜甜（蓝莓抹茶口味）, 圣代甜甜（杨桃巧克力口味）, 圣代甜甜（杨桃草莓口味）, 圣代甜甜（杨桃抹茶口味）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3126.png?sign=3f4037dc26ac2c2b4aa5fe7c598ed13f&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3126.png?sign=b51dc9f5da4dbdb1c7d9e66eafd231e0&t=69d3e957",
+        "local_avatar": "images/avatars/圣代甜甜.png",
+        "local_body": "images/full_body/圣代甜甜.png"
+    },
+    {
+        "name": "晶石蜗",
+        "type": "光, 地元素精灵",
+        "family_chain": "矿晶虫 → 晶石蜗（西瓜碧玺的样子）, 晶石蜗（莲花刚玉的样子）, 晶石蜗（星彩榴石的样子）, 晶石蜗（火山琉璃的样子）, 晶石蜗（蓝锥矿的样子）, 晶石蜗（烧蓝黄金的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3308.png?sign=7d9af397e4a3b8912471e54e7d55d78d&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3308.png?sign=c8f00505b680ebf876bbb68dd48fcb8f&t=69d3e957",
+        "local_avatar": "images/avatars/晶石蜗.png",
+        "local_body": "images/full_body/晶石蜗.png"
+    },
+    {
+        "name": "混乱鱿彩",
+        "type": "幽, 恶元素精灵",
+        "family_chain": "墨鱿士 → 混乱鱿彩, 秩序鱿墨",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3578.png?sign=f40c1c64d9e345b25f4fa64931f4517d&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3578.png?sign=03926006e6e835ab91b193469a0a2a64&t=69d3e957",
+        "local_avatar": "images/avatars/混乱鱿彩.png",
+        "local_body": "images/full_body/混乱鱿彩.png"
+    },
+    {
+        "name": "琉璃水母",
+        "type": "水, 毒元素精灵",
+        "family_chain": "翡翠水母 → 琉璃水母",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3120.png?sign=48e69a74b53ce13f770058ece85c3d0c&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3120.png?sign=5acb351123ad1324ecb549a181180cda&t=69d3e957",
+        "local_avatar": "images/avatars/琉璃水母.png",
+        "local_body": "images/full_body/琉璃水母.png"
+    },
+    {
+        "name": "巨灵石",
+        "type": "地, 幽元素精灵",
+        "family_chain": "石石 → 巨灵石",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3171.png?sign=7b23f3ec1ecefef816bc8a9b34bd4a6b&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3171.png?sign=647ecaf8a76629174d90ce831ddeab37&t=69d3e957",
+        "local_avatar": "images/avatars/巨灵石.png",
+        "local_body": "images/full_body/巨灵石.png"
+    },
+    {
+        "name": "记忆石",
+        "type": "地元素精灵",
+        "family_chain": "记忆石",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3050.png?sign=5af380253a008bd9c69620f37282c0ac&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3050.png?sign=1ea80323b1e0e436cd1a48676542836d&t=69d3e957",
+        "local_avatar": "images/avatars/记忆石.png",
+        "local_body": "images/full_body/记忆石.png"
+    },
+    {
+        "name": "幽冥眼",
+        "type": "幽元素精灵",
+        "family_chain": "小灵面 → 暗影灵面（睁眼的样子）, 暗影灵面（闭眼的样子） → 幽冥眼（睁眼的样子）, 幽冥眼（闭眼的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3405.png?sign=4dd52d7a2fef55b29216f49051389e2e&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3405.png?sign=6a8b9e75fbf4918980719dd5ffbdf1bd&t=69d3e957",
+        "local_avatar": "images/avatars/幽冥眼.png",
+        "local_body": "images/full_body/幽冥眼.png"
+    },
+    {
+        "name": "抹茶布丁",
+        "type": "水, 草元素精灵",
+        "family_chain": "果冻 → 抹茶布丁, 椰浆布丁, 熔岩布丁",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3526.png?sign=801a6d0edcfde52c3608436ffebd3810&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3526.png?sign=1525c2309ac8cb1fee632b1425335d73&t=69d3e957",
+        "local_avatar": "images/avatars/抹茶布丁.png",
+        "local_body": "images/full_body/抹茶布丁.png"
+    },
+    {
+        "name": "荆棘电环",
+        "type": "电元素精灵",
+        "family_chain": "闪电环 → 刺电环 → 荆棘电环",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3197.png?sign=985f4d4ee06d0f14dca0f62789806deb&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3197.png?sign=fc5768fefffc15168b9e71e2d1060f0f&t=69d3e957",
+        "local_avatar": "images/avatars/荆棘电环.png",
+        "local_body": "images/full_body/荆棘电环.png"
+    },
+    {
+        "name": "利灯鱼",
+        "type": "水, 电元素精灵",
+        "family_chain": "双灯鱼 → 利灯鱼",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3383.png?sign=8799311bd1cfd8a42b38234e12884782&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3383.png?sign=0e08bb85dff77aab8d48ae59c95cc554&t=69d3e957",
+        "local_avatar": "images/avatars/利灯鱼.png",
+        "local_body": "images/full_body/利灯鱼.png"
+    },
+    {
+        "name": "月亮砣",
+        "type": "毒, 萌元素精灵",
+        "family_chain": "刺轮砣（下弦的样子） → 月亮砣（下弦的样子）",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3585.png?sign=2c04d8e590d940bdadfe8c575dc7374c&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3585.png?sign=f74883f2cad29b492cdb3bc07c7cf0b6&t=69d3e957",
+        "local_avatar": "images/avatars/月亮砣.png",
+        "local_body": "images/full_body/月亮砣.png"
+    },
+    {
+        "name": "闪电鳗鱼",
+        "type": "电, 水元素精灵",
+        "family_chain": "胆小鳗鱼 → 闪电鳗鱼",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3267.png?sign=cdb17220a235cc38add83f229a8875bb&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3267.png?sign=4e05d06e421987318ebb72474a00af8e&t=69d3e957",
+        "local_avatar": "images/avatars/闪电鳗鱼.png",
+        "local_body": "images/full_body/闪电鳗鱼.png"
+    },
+    {
+        "name": "龙鱼",
+        "type": "水, 龙元素精灵",
+        "family_chain": "豆丁鱼 → 快鳍鱼 → 龙鱼",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3386.png?sign=2c3cc11419d9395140c4f14447e18211&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3386.png?sign=c9d8212fc89201751ee9c571f0d2fb65&t=69d3e957",
+        "local_avatar": "images/avatars/龙鱼.png",
+        "local_body": "images/full_body/龙鱼.png"
+    },
+    {
+        "name": "伊兰亚龙",
+        "type": "龙元素精灵",
+        "family_chain": "伊雷龙 → 伊兰亚龙",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3412.png?sign=2577bb82ffb1625988ae4b25ba3b0a61&t=69d3e957",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3412.png?sign=d957f7cef5c15d246e6e898b2e9d437b&t=69d3e957",
+        "local_avatar": "images/avatars/伊兰亚龙.png",
+        "local_body": "images/full_body/伊兰亚龙.png"
+    },
+    {
+        "name": "声波缇塔",
+        "type": "机械元素精灵",
+        "family_chain": "缇塔 → 声波缇塔",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3407.png?sign=2b4d09be17fce42245fef1026d936983&t=69d3e9d1",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3407.png?sign=fb8dee5a569238099001fc266223be27&t=69d3e9d1",
+        "local_avatar": "images/avatars/声波缇塔.png",
+        "local_body": "images/full_body/声波缇塔.png"
+    },
+    {
+        "name": "权杖-V",
+        "type": "机械元素精灵",
+        "family_chain": "权杖-Ⅱ → 权杖-V",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3411.png?sign=8a6cd34ebb971d96b64cd101407156f6&t=69d3e9d1",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3411.png?sign=673c6218e2efdc4cec53750466de8652&t=69d3e9d1",
+        "local_avatar": "images/avatars/权杖-V.png",
+        "local_body": "images/full_body/权杖-V.png"
+    },
+    {
+        "name": "立方人",
+        "type": "机械元素精灵",
+        "family_chain": "机械方方 → 多彩方方 → 立方人",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3202.png?sign=171aefc2adf7416159532abedb496b93&t=69d3e9d1",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3202.png?sign=12847154122bfa52976c00c03d36e825&t=69d3e9d1",
+        "local_avatar": "images/avatars/立方人.png",
+        "local_body": "images/full_body/立方人.png"
+    },
+    {
+        "name": "贝古斯",
+        "type": "机械, 火元素精灵",
+        "family_chain": "贝瑟 → 贝加尔 → 贝古斯",
+        "hatch_status": "可生蛋",
+        "avatar_url": "https://rococdn.gptvip.chat/assets/pets/head/3205.png?sign=f54bb9b46a60cf5e84872ca977e02476&t=69d3e9d1",
+        "body_url": "https://rococdn.gptvip.chat/assets/pets/body/3205.png?sign=a2ddc5c275c1a312cdc235965824dad1&t=69d3e9d1",
+        "local_avatar": "images/avatars/贝古斯.png",
+        "local_body": "images/full_body/贝古斯.png"
+    }
+]
